@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-# Phd student at Tongji university
+Guoqiang FU currently works at the State Key Laboratory of Disaster Reduction in Civil Engineering, Tongji University. 
+
+His research focuses on Structural Wind Engineering and System Identification.
 
 <!--
 **GuoQiang-Fu/GuoQiang-Fu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
